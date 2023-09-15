@@ -5,10 +5,10 @@
 </p>
 
 
-<div>
+<div align="center">
   <h1>Features:</h1>
   <li>Login supported</li>
-  <li>* Account creation supported</li>
+  <li>Account creation supported</li>
 </div>
 
 ## Sample password:
