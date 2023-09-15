@@ -5,9 +5,11 @@
 </p>
 
 
-## Features:
-* Login supported
-* Account creation supported
+<div>
+  <h1>Features:</h1>
+  * Login supported
+  * Account creation supported
+</div>
 
 ## Sample password:
 
