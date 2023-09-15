@@ -12,9 +12,8 @@
 </div>
 
 <div>
-  <h1>Sample Password:</h1>
-  <li>#PWD_INSTAGRAM_BROWSER:10:1694680937:AXxQAH4d6Q65cBNJDbN/sqtTHFL2wLSKhN/La8fNOQs6UnktbchrWxkxJKntc8ux4oCKZks2yYACrBeiImzf+HIIeHxA/39bx/jFl9Ik0fpwj1HYq+9G51LYRXY7qAh0Pw/iTAuxcFjdNUlwuxd6l60113jB (randompassword321)
-</li>
+  <h1 align="center">Sample Password:</h1>
+<p>#PWD_INSTAGRAM_BROWSER:10:1694680937:AXxQAH4d6Q65cBNJDbN/sqtTHFL2wLSKhN/La8fNOQs6UnktbchrWxkxJKntc8ux4oCKZks2yYACrBeiImzf+HIIeHxA/39bx/jFl9Ik0fpwj1HYq+9G51LYRXY7qAh0Pw/iTAuxcFjdNUlwuxd6l60113jB (randompassword321)</p>
 </div>
 
 <div align="center">
