@@ -7,8 +7,8 @@
 
 <div>
   <h1>Features:</h1>
-  * Login supported
-  * Account creation supported
+  <p>* Login supported</p>
+  <p>* Account creation supported</p>
 </div>
 
 ## Sample password:
