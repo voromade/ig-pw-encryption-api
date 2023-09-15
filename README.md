@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-  <h1>`👨‍💻` Pricing / Inquiries / Contact:</h1>
+  <h1>👨‍💻 Pricing / Inquiries / Contact:</h1>
   <li>Telegram: @voromade</li>
   <li>Discord: @voromade</li>
 </div>
