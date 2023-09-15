@@ -5,8 +5,8 @@
 </p>
 
 
-<div align="center">
-  <h1>Supports:</h1>
+<div>
+  <h1 align="center">Supports:</h1>
   <li>Login</li>
   <li>Account Creation</li>
 </div>
