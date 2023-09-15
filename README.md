@@ -1,7 +1,7 @@
 <h1 align="center">Instagram Password Encryption Algorithm API</h1>
 
 <p align="center">
-  Easily generate working encrypted instagram passwords ex: #PWD_INSTAGRAM_BROWSER:enc_version:encryption_here
+  Easily generate working encrypted instagram passwords ex: #PWD_INSTAGRAM_BROWSER:[enc_version]:[encryption_here]
 </p>
 
 
